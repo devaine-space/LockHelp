@@ -12,4 +12,4 @@ HTML
 CSS
 JavaScript
 Ссылка на сайт
-https://username.github.io/project-name/
+[https://username.github.io/project-name/](https://devaine-space.github.io/LockHelp/)
